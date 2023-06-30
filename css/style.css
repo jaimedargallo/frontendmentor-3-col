@@ -54,7 +54,7 @@ p {
   padding: 0.6875rem 1.5625rem;
   font-family: 'Lexend Deca', sans-serif;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 0.8rem;
   display: inline-block;
   transition-property: color, background-color, border-color;
   transition-duration: 300ms;
@@ -109,7 +109,7 @@ p {
 
   .article {
     padding: 2.9375rem;
-    flex: 1 1 0px;
+    flex: 1 1 0;
   }
 
   .icon {
@@ -117,7 +117,7 @@ p {
   }
 
   p {
-    font-size: 15px;
+    font-size: 0.95rem;
   }
 
   .btn {
