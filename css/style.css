@@ -56,6 +56,7 @@ p {
   font-weight: 600;
   font-size: 0.8rem;
   display: inline-block;
+  text-decoration: none;
   transition-property: color, background-color, border-color;
   transition-duration: 300ms;
   transition-timing-function: ease-in-out;
