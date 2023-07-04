@@ -83,6 +83,12 @@ p {
   font-family: 'Lexend Deca', sans-serif;
   font-size: 11px;
   text-align: center;
+  position: fixed;
+  bottom: 0;
+  background-color: hsl(0deg 2.89% 84.76%);
+  padding: 0.5rem;
+  right: 0;
+  left: 0;
 }
 
 .attribution a {
