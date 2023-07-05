@@ -1,5 +1,5 @@
-
-html, body {
+html,
+body {
   height: 100%;
   display: grid;
 }
@@ -26,7 +26,6 @@ p {
 
 .articles {
   border-radius: 5px;
-  overflow: hidden;
   margin-bottom: 0.625rem;
 }
 
