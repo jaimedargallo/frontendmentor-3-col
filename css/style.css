@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 html,
 body {
   height: 100%;
@@ -7,6 +13,7 @@ body {
 body {
   font-family: 'Lexend Deca', sans-serif;
   background-color: hsl(0, 0%, 95%);
+  padding: 100px 0;
 }
 
 h1 {
@@ -27,6 +34,7 @@ p {
 .articles {
   border-radius: 5px;
   margin-bottom: 0.625rem;
+  overflow: hidden;
 }
 
 .icon {
@@ -108,7 +116,6 @@ p {
 
   .articles {
     border-radius: 8px;
-    overflow: hidden;
     display: flex;
     margin: 0 auto;
     max-width: 57.5rem;
